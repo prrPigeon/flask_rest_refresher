@@ -1,0 +1,1 @@
+Repository for personal refreshement of using JWT authentication in Flask REST example.
